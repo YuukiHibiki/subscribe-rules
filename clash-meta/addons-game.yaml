@@ -1,15 +1,15 @@
 payload:
   # Shdowverse
-  - DOMAIN-SUFFIX,shadowverse.jp
-  - DOMAIN-SUFFIX,shadowverse.akamaized.net
-  - DOMAIN-SUFFIX,cygames.jp
+  # - DOMAIN-SUFFIX,shadowverse.jp
+  # - DOMAIN-SUFFIX,shadowverse.akamaized.net
+  # - DOMAIN-SUFFIX,cygames.jp
   
   # Magia Record
-  - DOMAIN,cdn-bgp.bluestacks.com
-  - DOMAIN,cloud.bluestacks.com
-  - DOMAIN-SUFFIX,magi-reco.com
-  - DOMAIN-SUFFIX,smbeat.jp
-  - DOMAIN-SUFFIX,noahapps.jp
+  # - DOMAIN,cdn-bgp.bluestacks.com
+  # - DOMAIN,cloud.bluestacks.com
+  # - DOMAIN-SUFFIX,magi-reco.com
+  # - DOMAIN-SUFFIX,smbeat.jp
+  # - DOMAIN-SUFFIX,noahapps.jp
   
   # Heven Burns Red
   - DOMAIN,heaven-burns-red-assets.akamaized.net
