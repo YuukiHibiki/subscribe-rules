@@ -1,25 +1,16 @@
 payload:
   # MySite
-  - DOMAIN-SUFFIX,hibikiddns.asia
   - DOMAIN-SUFFIX,hibiki.fun
   - DOMAIN-SUFFIX,k8stest.org
   
-  # Emby 
-  - DOMAIN-SUFFIX,misakaf.xyz
-  
-  # Anime
-  - DOMAIN-SUFFIX,bangumi.online
-
-  # PikPak
-  - DOMAIN-SUFFIX,mypikpak.com
-
-  # GameStore 
-  - DOMAIN-SUFFIX,greenmangaming.com
-
   # Hollycrm
   - DOMAIN-SUFFIX,7x24cc.com
   
   # China-site
   # DOMAIN-SUFFIX,img.nga.178.com
   # DOMAIN-SUFFIX,img4.nga.178.com
-  # DOMAIN-SUFFIX,himg.baidu.com
+  - DOMAIN-SUFFIX,bdstatic.com
+  - DOMAIN,tb.himg.baidu.com
+  - DOMAIN,feed-image.baidu.com
+  - DOMAIN,cdn.hiphotos.baidu.com
+  - DOMAIN,tiebapic.baidu.com
