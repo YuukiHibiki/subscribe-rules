@@ -12,5 +12,6 @@ payload:
   # - DOMAIN-SUFFIX,noahapps.jp
   
   # Heven Burns Red
+  - DOMAIN-SUFFIX,gree-apps.net
   - DOMAIN,heaven-burns-red-assets.akamaized.net
   - DOMAIN-SUFFIX,wfs.games
