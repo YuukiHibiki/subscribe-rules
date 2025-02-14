@@ -1,16 +1,15 @@
 payload:
   # MySite
   - DOMAIN-SUFFIX,hibiki.fun
-  - DOMAIN-SUFFIX,k8stest.org
   
   # Hollycrm
   - DOMAIN-SUFFIX,7x24cc.com
   
   # China-site
-  - DOMAIN,img.nga.178.com
-  - DOMAIN,img4.nga.178.com
-  - DOMAIN-SUFFIX,bdstatic.com
-  - DOMAIN,tb.himg.baidu.com
-  - DOMAIN,feed-image.baidu.com
-  - DOMAIN,cdn.hiphotos.baidu.com
-  - DOMAIN,tiebapic.baidu.com
+  # - DOMAIN,img.nga.178.com
+  # - DOMAIN,img4.nga.178.com
+  # - DOMAIN-SUFFIX,bdstatic.com
+  # - DOMAIN,tb.himg.baidu.com
+  # - DOMAIN,feed-image.baidu.com
+  # - DOMAIN,cdn.hiphotos.baidu.com
+  # - DOMAIN,tiebapic.baidu.com
